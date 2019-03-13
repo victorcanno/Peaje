@@ -1,0 +1,12 @@
+{
+Auto:
+ placa:132-ABC
+,marca:Renault 
+,valor:10000
+}
+
+<Auto>
+	<placa>132-ABC</placa>
+	<marca>Renault</marca>
+	<valor>10000</valor>
+</Auto>
