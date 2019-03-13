@@ -5,8 +5,10 @@ Auto:
 ,valor:10000
 }
 
-<Auto>
-	<placa>132-ABC</placa>
-	<marca>Renault</marca>
-	<valor>10000</valor>
-</Auto>
+<Automovil>
+	<Auto>
+		<placa>132-ABC</placa>
+		<marca>Renault</marca>
+		<valor>10000</valor>
+	</Auto>
+</Automovil>
